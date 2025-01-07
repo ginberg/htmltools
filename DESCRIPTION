@@ -24,7 +24,7 @@ Depends:
 Imports:
     base64enc,
     digest,
-    fastmap (>= 1.1.0),
+    fastmap (>= 1.1.1),
     grDevices,
     rlang (>= 1.0.0),
     utils
